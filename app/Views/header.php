@@ -14,8 +14,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/main-logo.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/main-logo.png" type="image/x-icon">
 
     <!--==============================
 	  Google Fonts
@@ -81,7 +81,7 @@
         <div class="vs-menu-area text-center">
             <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="/"><img src="assets/img/logo.svg" alt="Wellnez"></a>
+                <a href="/"><img src="assets/img/main-logo.png" alt="Wellnez"></a>
             </div>
             <div class="vs-mobile-menu">
                 <ul>
@@ -147,7 +147,7 @@
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
             <div class="widget  ">
                 <div class="footer-logo">
-                    <img src="assets/img/logo.svg" alt="logo">
+                    <img src="assets/img/main-logo.png" alt="logo">
                 </div>
                 <div class="info-media1">
                     <div class="media-icon"><i class="fal fa-map-marker-alt"></i></div>
@@ -230,7 +230,7 @@
             <div class="row justify-content-between align-items-center gx-60">
                 <div class="col col-xxl-auto">
                     <div class="header-logo">
-                        <a href="/"><img src="assets/img/logo.svg" alt="logo"></a>
+                        <a href="/"><img src="assets/img/logo-main.png" alt="logo"></a>
                     </div>
                 </div>
                 <div class="col">
