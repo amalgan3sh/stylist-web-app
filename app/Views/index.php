@@ -179,8 +179,8 @@
                             <img src="assets/img/hero/IMG_5665.JPG" alt="thumb">
                             <div class="img-4"><img src="assets/img/shape/dots-shape.png" alt="thumb"></div>
                         </div>
-                        <div class="img-2"><img src="assets/img/about/ab-6-2.jpg" alt="thumb"></div>
-                        <div class="img-3"><img src="assets/img/about/ab-6-3.jpg" alt="thumb"></div>
+                        <div class="img-2"><img src="assets/img/200x200/200x200-1.jpg" alt="thumb"></div>
+                        <div class="img-3"><img src="assets/img/200x200/200x200-1.jpg" alt="thumb"></div>
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center  wow fadeInUp" data-wow-delay="0.3s">
@@ -309,7 +309,7 @@
                     <div class="row">
                         <div class="col-md-6 col-xl-12 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="banner-style2 mega-hover">
-                                <div class="banner-img"><img src="assets/img/banner/banner-2-1.png" alt="banner"></div>
+                                <div class="banner-img"><img src="assets/img/570x331/570x331.jpg" alt="banner"></div>
                                 <div class="banner-content">
                                     <span class="banner-label">Foundation</span>
                                     <h3 class="banner-title">Batural Tone</h3>
@@ -319,7 +319,7 @@
                         </div>
                         <div class="col-md-6 col-xl-12 wow fadeInUp" data-wow-delay="0.4s">
                             <div class="banner-style2 layout2 mega-hover">
-                                <div class="banner-img"><img src="assets/img/banner/banner-2-2.png" alt="banner"></div>
+                                <div class="banner-img"><img src="assets/img/570x331/570x331-1.jpg" alt="banner"></div>
                                 <div class="banner-content">
                                     <span class="banner-label">Cosmetics</span>
                                     <h3 class="banner-title">Floral & Beauty Cream</h3>
@@ -342,7 +342,7 @@
             <div class="row gx-50 flex-row-reverse">
                 <div class="col-lg-6 mb-40 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img-box6">
-                        <div class="img-1"><img src="assets/img/about/ab-5-1.jpg" alt="thumb"></div>
+                        <div class="img-1"><img src="assets/img/570x760/570x760.jpg" alt="thumb"></div>
                         <div class="img-2 ani-moving-x"><img src="assets/img/shape/leaf-1-9.png" alt="leaf"></div>
                     </div>
                 </div>
