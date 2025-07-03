@@ -176,7 +176,7 @@
                 <div class="col-lg-6  wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img-box7">
                         <div class="img-1">
-                            <img src="assets/img/about/ab-6-1.jpg" alt="thumb">
+                            <img src="assets/img/hero/IMG_5665.JPG" alt="thumb">
                             <div class="img-4"><img src="assets/img/shape/dots-shape.png" alt="thumb"></div>
                         </div>
                         <div class="img-2"><img src="assets/img/about/ab-6-2.jpg" alt="thumb"></div>
