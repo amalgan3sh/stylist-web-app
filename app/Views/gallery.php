@@ -4,11 +4,11 @@
     <div class="breadcumb-wrapper " data-bg-src="assets/img/breadcumb/breadcumb-bg-3.jpg">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Our <span class="inner-text">Portfolio</span></h1>
+                <h1 class="breadcumb-title">Jennifer's <span class="inner-text">Portfolio</span></h1>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="index.html">Home</a></li>
-                        <li>Our <span class="inner-text">Portfolio</span></li>
+                        <li>Jennifer's <span class="inner-text">Portfolio</span></li>
                     </ul>
                 </div>
             </div>
@@ -28,8 +28,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-1.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="gallery-details.html" class="text-inherit">Thai Massage</a></h3>
-                            <span class="gallery-tag">Massage</span>
+                            <h3 class="gallery-title"><a href="gallery-details.html" class="text-inherit">Classic Saree Styling</a></h3>
+                            <span class="gallery-tag">Traditional</span>
                         </div>
                     </div>
                 </div>
@@ -41,8 +41,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-2.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Body Massage</a></h3>
-                            <span class="gallery-tag">Beauty</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Modern Fusion Look</a></h3>
+                            <span class="gallery-tag">Contemporary</span>
                         </div>
                     </div>
                 </div>
@@ -54,8 +54,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-3.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Skin Care</a></h3>
-                            <span class="gallery-tag">Expert</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Bridal Makeover</a></h3>
+                            <span class="gallery-tag">Wedding</span>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-4.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Health Care</a></h3>
-                            <span class="gallery-tag">Beauty</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Men's Styling</a></h3>
+                            <span class="gallery-tag">Menswear</span>
                         </div>
                     </div>
                 </div>
@@ -80,8 +80,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-5.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Face Care</a></h3>
-                            <span class="gallery-tag">Lifestyle</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Editorial Shoot</a></h3>
+                            <span class="gallery-tag">Fashion</span>
                         </div>
                     </div>
                 </div>
@@ -93,8 +93,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-6.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Eye litelime</a></h3>
-                            <span class="gallery-tag">Classic</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Kids' Fashion</a></h3>
+                            <span class="gallery-tag">Children</span>
                         </div>
                     </div>
                 </div>
@@ -106,8 +106,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-7.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Ruler Massage</a></h3>
-                            <span class="gallery-tag">Queen</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Corporate Styling</a></h3>
+                            <span class="gallery-tag">Professional</span>
                         </div>
                     </div>
                 </div>
@@ -119,8 +119,8 @@
                         <div class="gallery-shape" data-overlay="white" data-opacity="9"></div>
                         <div class="gallery-content">
                             <a href="assets/img/gallery/gal-4-8.jpg" class="gallery-btn popup-image"><i class="fal fa-plus"></i></a>
-                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Nose Massage</a></h3>
-                            <span class="gallery-tag">Massage</span>
+                            <h3 class="gallery-title"><a href="service-details.html" class="text-inherit">Makeup Artistry</a></h3>
+                            <span class="gallery-tag">Beauty</span>
                         </div>
                     </div>
                 </div>
@@ -136,25 +136,25 @@
         <div class="container">
             <div class="row vs-carousel text-center" data-slide-show="6" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2" data-xs-slide-show="2">
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-1.png" alt="brand">
+                    <img src="assets/img/brand/b-1-1.png" alt="Vogue">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-2.png" alt="brand">
+                    <img src="assets/img/brand/b-1-2.png" alt="Elle">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-3.png" alt="brand">
+                    <img src="assets/img/brand/b-1-3.png" alt="GQ">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-4.png" alt="brand">
+                    <img src="assets/img/brand/b-1-4.png" alt="Harper's Bazaar">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-5.png" alt="brand">
+                    <img src="assets/img/brand/b-1-5.png" alt="InStyle">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-6.png" alt="brand">
+                    <img src="assets/img/brand/b-1-6.png" alt="Cosmopolitan">
                 </div>
                 <div class="col-auto">
-                    <img src="assets/img/brand/b-1-3.png" alt="brand">
+                    <img src="assets/img/brand/b-1-3.png" alt="GQ">
                 </div>
             </div>
         </div>

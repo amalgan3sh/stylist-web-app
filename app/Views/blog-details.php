@@ -26,40 +26,40 @@
                         </div>
                         <div class="blog-content">
                             <div class="blog-category">
-                                <a href="blog.html">Beauty</a>
+                                <a href="blog.html">Personal Style</a>
                             </div>
-                            <h2 class="blog-title">health by or through water</h2>
+                            <h2 class="blog-title">5 Wardrobe Essentials Every Woman Needs</h2>
                             <div class="blog-meta">
-                                <a href="blog.html"><i class="fas fa-user"></i>by Admin</a>
-                                <a href="blog.html"><i class="fas fa-calendar-alt"></i>March 10, 2023</a>
-                                <a href="blog.html"><i class="far fa-comments"></i>0 comments</a>
+                                <a href="blog.html"><i class="fas fa-user"></i>by Jennifer</a>
+                                <a href="blog.html"><i class="fas fa-calendar-alt"></i>April 10, 2024</a>
+                                <a href="blog.html"><i class="far fa-comments"></i>8 comments</a>
                             </div>
-                            <p>We think your skin should look and refshed matter Nourish your outer inner beauty with our essential oil infused beauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore. magna aliqua. Ut enim ad minim venia quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            <p>Beauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore. magna aliqua. Ut enim ad minim venia quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Solet conceptam an quo. tamquam elaboraret quo. Pri ut detraxit iudicabit efficiantur officiis noius.</p>
+                            <p>Discover the must-have pieces that form the foundation of a versatile and stylish wardrobe. Jennifer shares her top picks and styling tips for every season, helping you build a closet that works for every occasion.</p>
+                            <p>From the classic white shirt to the perfect pair of jeans, these essentials are the building blocks of effortless style. Learn how to mix, match, and accessorize for a look that’s uniquely yours.</p>
                             <blockquote class="vs-quote">
-                                <p>“Beauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet, consectetur adipiscing incididunt” </p>
-                                <cite>jon deomax</cite>
+                                <p>“Style is a way to say who you are without having to speak.” </p>
+                                <cite>Jennifer, Stylist</cite>
                             </blockquote>
-                            <p>Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore. magna aliqua. Ut enim ad minim venia quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Solet conceptam an quo. tamquam elaboraret quo. Pri ut detraxit iudicabit efficiantur officiis noius.</p>
-                            <p>Adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore. magna aliqua. Ut enim ad minim venia quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Solet conceptam an quo. tamquam elaboraret quo. Pri ut detraxit iudicabit efficiantur officiis noius.</p>
+                            <p>Jennifer’s approach to personal styling is all about confidence and authenticity. She believes that everyone can look and feel their best with the right guidance and a few timeless pieces.</p>
+                            <p>Ready to transform your wardrobe? Book a session with Jennifer and start your style journey today!</p>
                             <div class="row mt-30">
                                 <div class="col-md-6 mb-30 ">
-                                    <img src="assets/img/blog/blog-d-1-1.jpg" alt="blog image" class="w-100">
+                                    <img src="assets/img/blog/blog-d-1-1.jpg" alt="Styled Look 1" class="w-100">
                                 </div>
                                 <div class="col-md-6 mb-30 ">
-                                    <img src="assets/img/blog/blog-d-1-2.jpg" alt="blog image" class="w-100">
+                                    <img src="assets/img/blog/blog-d-1-2.jpg" alt="Styled Look 2" class="w-100">
                                 </div>
                             </div>
-                            <p>Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore. magna aliqua. Ut enim ad minim venia quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Solet conceptam an quo. tamquam elaboraret quo. Pri ut detraxit iudicabit efficiantur officiis noius.</p>
+                            <p>For more tips and inspiration, follow Jennifer on Instagram or check out her latest blog posts. Your style evolution starts here!</p>
                         </div>
                         <div class="share-links clearfix  ">
                             <div class="row justify-content-between">
                                 <div class="col-md-auto">
                                     <span class="share-links-title">Tags:</span>
                                     <div class="tagcloud">
-                                        <a href="blog.html">Everyday</a>
-                                        <a href="blog.html">Beauty</a>
-                                        <a href="blog.html">Organic oil</a>
+                                        <a href="blog.html">Styling</a>
+                                        <a href="blog.html">Wardrobe</a>
+                                        <a href="blog.html">Essentials</a>
                                     </div>
                                 </div>
                                 <div class="col-md-auto text-xl-end">
@@ -77,8 +77,8 @@
                                 <img src="assets/img/blog/blog-author.jpg" alt="Blog Author Image">
                             </div>
                             <div class="media-body">
-                                <h3 class="author-name">Maisie Reyes</h3>
-                                <p class="author-text">Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing eiusmod</p>
+                                <h3 class="author-name">Jennifer</h3>
+                                <p class="author-text">Jennifer is a passionate stylist dedicated to helping clients express their unique personalities through fashion. She specializes in personal styling, wardrobe makeovers, and event looks.</p>
                                 <div class="author-links">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -113,11 +113,11 @@
                                             <img src="assets/img/blog/comment-author-1.png" alt="Comment Author">
                                         </div>
                                         <div class="comment-content">
-                                            <h4 class="name h4">Lynda Reyes</h4>
-                                            <span class="commented-on"><i class="fal fa-calendar-alt"></i> 22 March, 2023</span>
-                                            <p class="text">Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing eiusmod</p>
+                                            <h4 class="name h4">Priya Sharma</h4>
+                                            <span class="commented-on"><i class="fal fa-calendar-alt"></i> 22 April, 2024</span>
+                                            <p class="text">Jennifer’s tips helped me completely revamp my wardrobe. I feel so much more confident in my style now!</p>
                                             <div class="reply_and_edit">
-                                                <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Replay</a>
+                                                <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -128,11 +128,11 @@
                                                     <img src="assets/img/blog/comment-author-2.jpg" alt="Comment Author">
                                                 </div>
                                                 <div class="comment-content">
-                                                    <h4 class="name h4">Adom Lee</h4>
-                                                    <span class="commented-on"><i class="fal fa-calendar-alt"></i> 23 Augest, 2023</span>
-                                                    <p class="text">Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing eiusmod</p>
+                                                    <h4 class="name h4">Amit Verma</h4>
+                                                    <span class="commented-on"><i class="fal fa-calendar-alt"></i> 23 April, 2024</span>
+                                                    <p class="text">I loved the before & after transformation stories. Jennifer is truly talented!</p>
                                                     <div class="reply_and_edit">
-                                                        <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Replay</a>
+                                                        <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Reply</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -145,11 +145,11 @@
                                             <img src="assets/img/blog/comment-author-3.jpg" alt="Comment Author">
                                         </div>
                                         <div class="comment-content">
-                                            <h4 class="name h4">Tara sing</h4>
-                                            <span class="commented-on"><i class="fal fa-calendar-alt"></i> 26 April, 2023</span>
-                                            <p class="text">Deauty products Lorem ipsum dolor sit amet, consectetur adipisicing the Lorem ipsum dolor sitamet consectetur adipiscing eiusmod</p>
+                                            <h4 class="name h4">Tara Singh</h4>
+                                            <span class="commented-on"><i class="fal fa-calendar-alt"></i> 26 April, 2024</span>
+                                            <p class="text">Thank you, Jennifer, for making fashion feel accessible and fun!</p>
                                             <div class="reply_and_edit">
-                                                <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Replay</a>
+                                                <a href="#" class="replay-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -191,8 +191,8 @@
                                 <div class="admin-img">
                                     <img src="assets/img/widget/admin-1-1.jpg" alt="admin">
                                 </div>
-                                <h3 class="widget_title">ABOUT AUTHOR</h3>
-                                <p class="admin-text">We think your skin should look refshed matter Nourish your outer inner beauty with our essential.</p>
+                                <h3 class="widget_title">ABOUT JENNIFER</h3>
+                                <p class="admin-text">Jennifer is a passionate stylist dedicated to helping clients express their unique personalities through fashion. Follow her for the latest style inspiration and tips!</p>
                                 <div class="admin-sign">
                                     <img src="assets/img/widget/admin-sign.png" alt="admin-sign">
                                 </div>
@@ -202,34 +202,34 @@
                             <h3 class="widget_title">Categories</h3>
                             <ul>
                                 <li>
-                                    <a href="blog.html">Everyday Style</a>
+                                    <a href="blog.html">Personal Styling</a>
                                     <span>8</span>
                                 </li>
                                 <li>
-                                    <a href="blog.html">Nice Skin</a>
+                                    <a href="blog.html">Wardrobe Tips</a>
                                     <span>3</span>
                                 </li>
                                 <li>
-                                    <a href="blog.html">Collection</a>
+                                    <a href="blog.html">Trends</a>
                                     <span>4</span>
                                 </li>
                                 <li>
-                                    <a href="blog.html">New Products</a>
+                                    <a href="blog.html">Client Stories</a>
                                     <span>2</span>
                                 </li>
                             </ul>
                         </div>
                         <div class="widget  ">
-                            <h3 class="widget_title">Latest post</h3>
+                            <h3 class="widget_title">Latest Posts</h3>
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
                                         <a href="blog-details.html"><img src="assets/img/widget/recent-post-1-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Skinscent Experience Oskarsson</a></h4>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">How to Build a Capsule Wardrobe</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>march 10, 2023</a>
+                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>March 10, 2024</a>
                                         </div>
                                     </div>
                                 </div>
@@ -238,9 +238,9 @@
                                         <a href="blog-details.html"><img src="assets/img/widget/recent-post-1-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Lorem placeholder recent popular</a></h4>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Accessorizing for Every Occasion</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>Augest 10, 2023</a>
+                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>February 20, 2024</a>
                                         </div>
                                     </div>
                                 </div>
@@ -249,16 +249,16 @@
                                         <a href="blog-details.html"><img src="assets/img/widget/recent-post-1-3.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">From its medieval origins health custom</a></h4>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Client Makeover: A New Beginning</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>July 11, 2023</a>
+                                            <a href="blog.html"><i class="fas fa-calendar-alt"></i>January 11, 2024</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="widget  ">
-                            <h4 class="widget_title">instagram</h4>
+                            <h4 class="widget_title">Instagram</h4>
                             <div class="sidebar-gallery">
                                 <div class="gallery-thumb">
                                     <img src="assets/img/widget/gal-1-1.jpg" alt="Gallery Image" class="w-100">
@@ -277,12 +277,12 @@
                         <div class="widget widget_tag_cloud   ">
                             <h3 class="widget_title">Popular Tags</h3>
                             <div class="tagcloud">
-                                <a href="blog.html">Beauty</a>
-                                <a href="blog.html">Oil</a>
-                                <a href="blog.html">Organic</a>
-                                <a href="blog.html">Antiaging</a>
-                                <a href="blog.html">Skin Solution</a>
-                                <a href="blog.html">Cosmetic promex</a>
+                                <a href="blog.html">Styling</a>
+                                <a href="blog.html">Fashion</a>
+                                <a href="blog.html">Wardrobe</a>
+                                <a href="blog.html">Trends</a>
+                                <a href="blog.html">Accessories</a>
+                                <a href="blog.html">Client Stories</a>
                             </div>
                         </div>
                     </aside>

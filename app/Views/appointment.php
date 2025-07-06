@@ -4,7 +4,7 @@
     <div class="breadcumb-wrapper " data-bg-src="assets/img/breadcumb/breadcumb-bg-3.jpg">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Appointment</h1>
+                <h1 class="breadcumb-title">Book an Appointment</h1>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="index.html">Home</a></li>
@@ -24,8 +24,8 @@
             <div class="row gx-60">
                 <div class="col-xl-5 mb-40 mb-xl-0 pb-20 pb-xl-0 wow fadeInUp" data-wow-delay="0.2s">
                     <form action="appointment-mail.php" class="form-style2   appointment-form">
-                        <h2 class="form-title">Book Appointment</h2>
-                        <p class="form-label">Today For Free</p>
+                        <h2 class="form-title">Book Your Styling Session</h2>
+                        <p class="form-label">Let Jennifer Elevate Your Style</p>
                         <div class="form-group">
                             <input type="text" name="name" id="name" placeholder="Your Name">
                         </div>
@@ -40,16 +40,16 @@
                         </div>
                         <div class="form-group">
                             <select name="subject" id="subject">
-                                <option disabled hidden selected>Select Subject</option>
-                                <option>Sports Massage</option>
-                                <option>Stone Massage</option>
-                                <option>Head Massage</option>
-                                <option>Head Massage</option>
-                                <option>Facial &amp; Massage</option>
+                                <option disabled hidden selected>Select Service</option>
+                                <option>Personal Styling</option>
+                                <option>Wardrobe Consultation</option>
+                                <option>Event Styling</option>
+                                <option>Virtual Styling Session</option>
+                                <option>Shopping Assistance</option>
                             </select>
                         </div>
                         <div class="form-group">
-                            <button class="vs-btn" type="submit">Make Appointment</button>
+                            <button class="vs-btn" type="submit">Book Now</button>
                         </div>
                         <p class="form-messages"></p>
                     </form>
@@ -57,22 +57,22 @@
                 <div class="col-xl-7 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="row">
                         <div class="col-12 mb-5">
-                            <h2 class="h3 mb-4 mt-n2">Get Expert Health Consultation</h2>
-                            <p class="fs-md font-title mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p>
+                            <h2 class="h3 mb-4 mt-n2">Get in Touch with Jennifer</h2>
+                            <p class="fs-md font-title mb-4">Ready for a style transformation? Book your appointment with Jennifer and discover a new you. Whether you need a wardrobe refresh, event styling, or personal shopping, Jennifer is here to help you shine with confidence.</p>
                             <div class="row gy-2">
                                 <div class="col-auto">
-                                    <p class="vs-info"><i class="fal fa-envelope"></i><a href="mailto:example@info.com" class="text-inherit">example@info.com</a></p>
+                                    <p class="vs-info"><i class="fal fa-envelope"></i><a href="mailto:hello@stylewithj.com" class="text-inherit">hello@stylewithj.com</a></p>
                                 </div>
                                 <div class="col-auto">
-                                    <p class="vs-info"><i class="fal fa-phone-alt"></i><a href="tel:+441233456789" class="text-inherit">+441233456789</a></p>
+                                    <p class="vs-info"><i class="fal fa-phone-alt"></i><a href="tel:+919876543210" class="text-inherit">+91 98765 43210</a></p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-7 mb-30">
-                            <img src="assets/img/about/appoin-1-2.jpg" alt="about" class="w-100">
+                            <img src="assets/img/about/appoin-1-2.jpg" alt="Jennifer styling a client" class="w-100">
                         </div>
                         <div class="col-md-5 mb-30">
-                            <img src="assets/img/about/appoin-1-1.jpg" alt="about" class="w-100">
+                            <img src="assets/img/about/appoin-1-1.jpg" alt="Wardrobe consultation" class="w-100">
                         </div>
                     </div>
                 </div>
@@ -98,21 +98,21 @@
                             <svg viewBox="0 0 408 579">
                                 <path id="textboxpath2" d="M0 204C0 91.3339 91.3339 0 204 0V0C316.666 0 408 91.3339 408 204V316.879V375C408 487.666 316.666 579 204 579V579C91.3339 579 0 487.666 0 375V204Z"></path>
                                 <text>
-                                    <textPath href="#textboxpath2" startOffset="810">Onsectttur adipiscung</textPath>
+                                    <textPath href="#textboxpath2" startOffset="810">Style with J</textPath>
                                 </text>
                             </svg>
                         </div>
                         <div class="img-product">
                             <a href="shop-details.html"><img src="assets/img/about/price-2-1-1.png" alt="about"></a>
-                            <p class="product-title"><a href="shop-details.html" class="text-inherit">face vitamin</a></p>
-                            <p class="product-price">$12.00</p>
+                            <p class="product-title"><a href="shop-details.html" class="text-inherit">Personal Styling Session</a></p>
+                            <p class="product-price">INR 2,000</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-8 col-xxl-auto wow fadeInUp" data-wow-delay="0.3s">
                     <div class="title-area text-center text-md-start">
-                        <span class="text-white sec-subtitle">Experience Wellnez <span class="sec-subtext bg-theme">25 Years</span></span>
-                        <h2 class="text-white sec-title">Perfect Package</h2>
+                        <span class="text-white sec-subtitle">Experience Style with J <span class="sec-subtext bg-theme">with Jennifer</span></span>
+                        <h2 class="text-white sec-title">Styling Packages</h2>
                     </div>
                     <div class="price-inner2">
                         <div class="row vs-carousel" data-slide-show="2" data-lg-slide-show="1">
@@ -120,20 +120,19 @@
                                 <div class="package-style1">
                                     <div class="package-top">
                                         <div class="package-left">
-                                            <p class="package-price">12<span class="currency">$</span></p>
-                                            <p class="package-duration">Billed Monthly</p>
+                                            <p class="package-price">INR 2,000</p>
+                                            <p class="package-duration">Per Session</p>
                                         </div>
-                                        <h3 class="package-name">Basic Plan</h3>
+                                        <h3 class="package-name">Personal Styling</h3>
                                     </div>
                                     <div class="package-shape"><img src="assets/img/shape/price-shape-2.png" alt="shape"></div>
                                     <div class="package-list">
                                         <ul class="list-unstyled">
-                                            <li><span class="text-title">Mobile-Optimized</span></li>
-                                            <li>Free Custom Domain</li>
-                                            <li>Best Hosting</li>
-                                            <li>Max Makup</li>
-                                            <li>Outstanding Support</li>
-                                            <li>Happy Customers</li>
+                                            <li><span class="text-title">Wardrobe Analysis</span></li>
+                                            <li>Personalized Lookbook</li>
+                                            <li>Shopping List</li>
+                                            <li>Style Consultation</li>
+                                            <li>Follow-up Support</li>
                                         </ul>
                                     </div>
                                     <div class="package-btn">
@@ -145,20 +144,19 @@
                                 <div class="package-style1">
                                     <div class="package-top">
                                         <div class="package-left">
-                                            <p class="package-price">29<span class="currency">$</span></p>
-                                            <p class="package-duration">Billed Yearly</p>
+                                            <p class="package-price">INR 5,000</p>
+                                            <p class="package-duration">Event Styling</p>
                                         </div>
-                                        <h3 class="package-name">Mega Plan</h3>
+                                        <h3 class="package-name">Event Styling</h3>
                                     </div>
                                     <div class="package-shape"><img src="assets/img/shape/price-shape-2.png" alt="shape"></div>
                                     <div class="package-list">
                                         <ul class="list-unstyled">
-                                            <li><span class="text-title">Mobile-Optimized</span></li>
-                                            <li>Free Custom Domain</li>
-                                            <li>Best Hosting</li>
-                                            <li>Max Makup</li>
-                                            <li>Outstanding Support</li>
-                                            <li>Happy Customers</li>
+                                            <li><span class="text-title">Outfit Planning</span></li>
+                                            <li>Accessory Coordination</li>
+                                            <li>On-site Styling</li>
+                                            <li>Makeup & Hair Guidance</li>
+                                            <li>Photo-ready Looks</li>
                                         </ul>
                                     </div>
                                     <div class="package-btn">
@@ -180,30 +178,30 @@
         <div class="shape-mockup jump  d-none d-xxl-block" data-top="35%" data-left="17.5%"><img src="assets/img/shape/leaf-1-8.png" alt="shape"></div>
         <div class="container">
             <div class="title-area text-center">
-                <span class="sec-subtitle">client testimonial</span>
-                <h2 class="sec-title">Wellnez Customers</h2>
+                <span class="sec-subtitle">Client Testimonials</span>
+                <h2 class="sec-title">What Clients Say</h2>
             </div>
             <div class="pb-1px"></div>
             <div class="testi-style2">
                 <span class="vs-icon"><img src="assets/img/icon/quote-1-1.png" alt="icon"></span>
                 <div class="vs-carousel" data-slide-show="1" data-fade="true" data-arrows="true" data-ml-arrows="true" data-xl-arrows="true" data-lg-arrows="true" data-prev-arrow="fal fa-long-arrow-left" data-next-arrow="fal fa-long-arrow-right">
                     <div>
-                        <p class="testi-text">“We think your skin should look and refshed matter Nourish your outer inner beauty with our essential oil infused beauty products”</p>
+                        <p class="testi-text">“Jennifer helped me discover my personal style and gave me the confidence to try new looks. Highly recommended!”</p>
                         <div class="arrow-shape"><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i></div>
-                        <h3 class="testi-name h5">Thomas Muller</h3>
-                        <span class="testi-degi">CEO, SPATHINK</span>
+                        <h3 class="testi-name h5">Priya Sharma</h3>
+                        <span class="testi-degi">Marketing Professional</span>
                     </div>
                     <div>
-                        <p class="testi-text">“From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage known”</p>
+                        <p class="testi-text">“The event styling session was a game changer. I felt amazing at my friend’s wedding thanks to Jennifer’s expertise.”</p>
                         <div class="arrow-shape"><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i></div>
-                        <h3 class="testi-name h5">William Shak</h3>
-                        <span class="testi-degi">Manager, LDC</span>
+                        <h3 class="testi-name h5">Amit Verma</h3>
+                        <span class="testi-degi">Entrepreneur</span>
                     </div>
                     <div>
-                        <p class="testi-text">“Creation timelines for the standard lorem ipsum passage vary, with some citing the 15th century and others the part of Cicero”</p>
+                        <p class="testi-text">“Jennifer’s wardrobe consultation made getting dressed every day so much easier. I love my new look!”</p>
                         <div class="arrow-shape"><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i><i class="arrow"></i></div>
-                        <h3 class="testi-name h5">Vivi Marian</h3>
-                        <span class="testi-degi">Customer</span>
+                        <h3 class="testi-name h5">Tara Singh</h3>
+                        <span class="testi-degi">Designer</span>
                     </div>
                 </div>
             </div>

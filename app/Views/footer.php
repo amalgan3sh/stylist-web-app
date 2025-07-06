@@ -10,7 +10,9 @@
                     <div class="col-lg-4">
                         <div class="widget footer-widget">
                             <div class="footer-logo mb-3">
-                                <img src="assets/img/logo-2.svg" alt="logo">
+                                <a href="/">
+                                    <img src="assets/img/logo-main.png" alt="logo">
+                                </a>
                             </div>
                             <p class="footer-text">Main practice areas of the firm include Admiralty, Maritime and Ship Arbitration, Arrest Mediation and ADRs point</p>
                             <p class="footer-info"><a href="tel:+01234567890" class="text-inherit"><i class="far fa-phone-alt text-theme me-2"></i>+0 123 456 7890</a> <br> <a class="text-inherit" href="mailto:info@example.com"><i class="fal fa-envelope text-theme me-2"></i>info@example.com</a> </p>
@@ -23,22 +25,19 @@
                                 <div class="col-6">
                                     <div class="menu-all-pages-container footer-menu">
                                         <ul class="menu">
-                                            <li><a href="service.html">SKINCARE</a></li>
-                                            <li><a href="service.html">MAKEUP</a></li>
-                                            <li><a href="service.html">FRAGRANCE</a></li>
-                                            <li><a href="service.html">HAIRCARE</a></li>
-                                            <li><a href="service.html">BATH & BODY</a></li>
+                                            <li><a href="about">About</a></li>
+                                            <li><a href="service">Services</a></li>
+                                            <li><a href="gallery">Gallery</a></li>
+                                            <li><a href="appointment">Appointment</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="menu-all-pages-container footer-menu">
                                         <ul class="menu">
-                                            <li><a href="service.html">Serivces</a></li>
-                                            <li><a href="about.html">ABOUT US</a></li>
-                                            <li><a href="price-plan.html">Price Plan</a></li>
-                                            <li><a href="contact.html">CONTACT</a></li>
-                                            <li><a href="blog.html">Our Blog</a></li>
+                                            <li><a href="blog">Blog</a></li>
+                                            <li><a href="team">Team</a></li>
+                                            <li><a href="contact">Contact</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -81,7 +80,7 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-md-auto text-center">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="index.html">Wellnez</a>. All Rights Reserved By <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a></p>
+                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a href="/">Style with J</a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-auto d-none d-md-block">
                         <div class="social-style3">

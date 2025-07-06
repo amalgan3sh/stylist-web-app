@@ -65,9 +65,9 @@
             <!-- Slide 2-->
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnsscale:1.2;">
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; top:555px; left:1440px; width:340px; height:330px; background-color:#9a563a; -webkit-background-clip:border-box;" class="ls-l ls-box-arrow ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:100; durationin:1500; delayin:500; easingin:easeOutQuint; offsetxout:300; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;"></div>
-                <img width="93" height="60" src="assets/img/hero/banner-2.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="rose" decoding="async" style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1565px; top:615px; width:95px; height:60px; -webkit-background-clip:border-box;" data-ls="offsetyin:-50; durationin:1500; delayin:1000; easingin:easeOutQuint; offsetyout:-50; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
+                <img width="93" height="60" src="assets/img/hero/rose-1.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="rose" decoding="async" style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1565px; top:615px; width:95px; height:60px; -webkit-background-clip:border-box;" data-ls="offsetyin:-50; durationin:1500; delayin:1000; easingin:easeOutQuint; offsetyout:-50; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
                 <ls-layer style='font-size:24px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1520px; top:695px; line-height:24px; color:#ffffff; font-family:"Marcellus", serif; width:180px; -webkit-background-clip:border-box;' class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:100; durationin:1500; delayin:1000; easingin:easeOutQuint; offsetyout:30; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
-                    AVailable Hours
+                    Available Hours
                 </ls-layer>
                 <ls-layer style='font-size:16px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1520px; top:750px; font-family:"DM Sans", sans-serif; line-height:16px; color:#ffffff; width:180px; -webkit-background-clip:border-box;' class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:100; durationin:1500; delayin:1200; easingin:easeOutQuint; offsetyout:30; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
                     Mon-Fri: <strong>9 AM &ndash; 6 PM</strong>
@@ -113,7 +113,7 @@
                 <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; top:555px; left:1440px; width:340px; height:330px; background-color:#9a563a; -webkit-background-clip:border-box;" class="ls-l ls-box-arrow ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:100; durationin:1500; delayin:500; easingin:easeOutQuint; offsetxout:300; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;"></div>
                 <img width="93" height="60" src="assets/img/hero/rose-1.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="rose" decoding="async" style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1565px; top:615px; width:95px; height:60px; -webkit-background-clip:border-box;" data-ls="offsetyin:-50; durationin:1500; delayin:1000; easingin:easeOutQuint; offsetyout:-50; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
                 <ls-layer style='font-size:24px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1520px; top:695px; line-height:24px; color:#ffffff; font-family:"Marcellus", serif; width:180px; -webkit-background-clip:border-box;' class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:100; durationin:1500; delayin:1000; easingin:easeOutQuint; offsetyout:30; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
-                    Opening Hours
+                   Available Hours
                 </ls-layer>
                 <ls-layer style='font-size:16px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; border-style:solid; border-color:#000; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:1520px; top:750px; font-family:"DM Sans", sans-serif; line-height:16px; color:#ffffff; width:180px; -webkit-background-clip:border-box;' class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:100; durationin:1500; delayin:1200; easingin:easeOutQuint; offsetyout:30; durationout:1500; easingout:easeOutQuint; parallax:true; parallaxlevel:2; parallaxaxis:x;">
                     Mon-Fri: <strong>9 AM &ndash; 6 PM</strong>
@@ -158,40 +158,28 @@
     </section><!--==============================
     About Area
     ==============================-->
-    <section class=" space">
+    <section class=" space-top space-extra-bottom">
         <div class="container">
-            <div class="row gx-50 flex-row-reverse">
-                <div class="col-lg-6 mb-40 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img-box6">
-                        <div class="img-1"><img src="assets/img/570x760/570x760.jpg" alt="thumb"></div>
-                        <div class="img-2 ani-moving-x"><img src="assets/img/shape/leaf-1-9.png" alt="leaf"></div>
+            <div class="row gx-60">
+                <div class="col-lg-6  wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="img-box7">
+                        <div class="img-1">
+                            <img src="assets/img/hero/IMG_7629.jpg" alt="Stylist at work" class="img-ratio-470-540" style="width:100%;height:auto;aspect-ratio:470/540;object-fit:cover;">
+                            <div class="img-4"><img src="assets/img/shape/dots-shape.png" alt="dots"></div>
+                        </div>
+                        <div class="img-2"><img src="assets/img/200x200/200x200-1.jpg" alt="Styled outfit" class="img-ratio-150-150" style="width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;"></div>
+                        <div class="img-3"><img src="assets/img/hero/IMG_7625.jpg" alt="Wardrobe" ></div>
+
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-center wow fadeInUp" data-wow-delay="0.3s">
-                    <span class="sec-subtitle5">Styling <span class="inner-text">Philosophy</span></span>
-                    <h2 class="sec-title4">Empowering <span class="inner-text">Confidence</span></h2>
-                    <p class="sec-text2">At Style with J, every client is unique. My mission is to help you express your individuality and feel confident in your own skin through personalized style solutions.</p>
-                    <div class="media-style4">
-                        <div class="media-img"><img src="assets/img/about/ab-5-2.jpg" alt="organic"></div>
-                        <div class="media-body">
-                            <p class="media-text">"Working with J transformed my wardrobe and my confidence! I finally feel like myself in every outfit." – Client Testimonial</p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-6 col-sm-auto">
-                            <div class="media-style5">
-                                <span class="media-icon"><i class="fal fa-users"></i></span>
-                                <span class="media-number">100+</span>
-                                <p class="media-text">Happy Clients</p>
-                            </div>
-                        </div>
-                        <div class="col-6 col-sm-auto">
-                            <div class="media-style5 bg-theme">
-                                <span class="media-icon"><i class="fal fa-globe-americas"></i></span>
-                                <span class="media-number">10</span>
-                                <p class="media-text">Years Experience</p>
-                            </div>
-                        </div>
+                <div class="col-lg-6 align-self-center  wow fadeInUp" data-wow-delay="0.3s">
+                    <span class="sec-subtitle5">Meet <span class="inner-text">Style with J</span></span>
+                    <h2 class="sec-title4">Personalized <span class="inner-text">Styling for You</span></h2>
+                    <p class="quote-text2">Unlock your best self with expert styling, wardrobe curation, and fashion advice tailored to your personality and goals.</p>
+                    <p>With a passion for empowering clients, J brings creativity, experience, and a personal touch to every session. Whether you need a style refresh, event look, or everyday confidence, Style with J is here to help you shine.</p>
+                    <div class="vs-btn-group">
+                        <a href="service.html" class="vs-btn style10">View Services<i class="far fa-arrow-right"></i></a>
+                        <a href="tel:+919876543210" class="vs-btn style11"><i class="fal fa-phone"></i>Book a Consultation</a>
                     </div>
                 </div>
             </div>
