@@ -158,33 +158,33 @@
     </section><!--==============================
     About Area
     ==============================-->
-    <section class=" space-top space-extra-bottom">
-        <div class="container">
-            <div class="row gx-60">
-                <div class="col-lg-6  wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img-box7">
-                        <div class="img-1">
-                            <img src="assets/img/hero/IMG_7629.jpg" alt="Stylist at work" class="img-ratio-470-540" style="width:100%;height:auto;aspect-ratio:470/540;object-fit:cover;">
-                            <div class="img-4"><img src="assets/img/shape/dots-shape.png" alt="dots"></div>
-                        </div>
-                        <div class="img-2"><img src="assets/img/200x200/200x200-1.jpg" alt="Styled outfit" class="img-ratio-150-150" style="width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;"></div>
-                        <div class="img-3"><img src="assets/img/hero/IMG_7625.jpg" alt="Wardrobe" ></div>
-
+    <section class="space-top space-extra-bottom">
+    <div class="container">
+        <div class="row gx-60">
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="img-box7">
+                    <div class="img-1">
+                        <img src="assets/img/hero/IMG_7629.jpg" alt="Jennifer at work" class="img-ratio-470-540" style="width:100%;height:auto;aspect-ratio:470/540;object-fit:cover;">
+                        <div class="img-4"><img src="assets/img/shape/dots-shape.png" alt="dots"></div>
                     </div>
+                    <div class="img-2"><img src="assets/img/200x200/200x200-1.jpg" alt="Styled outfit" class="img-ratio-150-150" style="width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;"></div>
+                    <div class="img-3"><img src="assets/img/hero/IMG_7625.jpg" alt="Wardrobe"></div>
                 </div>
-                <div class="col-lg-6 align-self-center  wow fadeInUp" data-wow-delay="0.3s">
-                    <span class="sec-subtitle5">Meet <span class="inner-text">Style with J</span></span>
-                    <h2 class="sec-title4">Personalized <span class="inner-text">Styling for You</span></h2>
-                    <p class="quote-text2">Unlock your best self with expert styling, wardrobe curation, and fashion advice tailored to your personality and goals.</p>
-                    <p>With a passion for empowering clients, J brings creativity, experience, and a personal touch to every session. Whether you need a style refresh, event look, or everyday confidence, Style with J is here to help you shine.</p>
-                    <div class="vs-btn-group">
-                        <a href="service.html" class="vs-btn style10">View Services<i class="far fa-arrow-right"></i></a>
-                        <a href="tel:+919876543210" class="vs-btn style11"><i class="fal fa-phone"></i>Book a Consultation</a>
-                    </div>
+            </div>
+            <div class="col-lg-6 align-self-center wow fadeInUp" data-wow-delay="0.3s">
+                <span class="sec-subtitle5">About <span class="inner-text">Style With J</span></span>
+                <h2 class="sec-title4">Style That Speaks You</h2>
+                <p class="quote-text2">“True style isn’t about changing who you are — it’s about becoming more of yourself.” — J</p>
+                <p>Style With J is more than just a styling service — it’s a personal journey. With a deep understanding of how clothing influences confidence and expression, I work closely with each client to co-create a wardrobe that fits their lifestyle, body, and aspirations.</p>
+                <p>Whether you're preparing for a new role, a special event, or simply want to feel more like yourself every day, I’ll help make your style feel natural and effortless.</p>
+                <div class="vs-btn-group">
+                    <a href="service.html" class="vs-btn style10">Services<i class="far fa-arrow-right"></i></a>
+                    <a href="appointment.html" class="vs-btn style11"><i class="fal fa-phone"></i>Discovery Call</a>
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </div>
+</section><!--==============================
     Service Area
     ==============================-->
     <section class="bg-vs-secondary space-top space-extra-bottom">
@@ -192,8 +192,8 @@
             <div class="row justify-content-center text-center">
                 <div class="col-md-9 col-lg-7 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="title-area">
-                        <h2 class="sec-title4">Signature Services</h2>
-                        <p class="sec-text">Elevate your style with a range of personalized services designed to help you look and feel your best, every day and for every occasion.</p>
+                        <h2 class="sec-title4">Services</h2>
+                        <p class="sec-text">Simple, personal, and tailored to you.</p>
                     </div>
                 </div>
             </div>
@@ -202,8 +202,8 @@
                     <div class="service-style4">
                         <span class="service-icon"><img src="assets/img/icons/sr-6-1.svg" alt="icon"></span>
                         <div class="service-content">
-                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Personal Styling</a></h3>
-                            <p class="service-text">One-on-one sessions to discover and refine your unique style, tailored to your lifestyle and goals.</p>
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Wardrobe Refresh</a></h3>
+                            <p class="service-text">Update and maximize what you own.</p>
                         </div>
                     </div>
                 </div>
@@ -211,8 +211,8 @@
                     <div class="service-style4">
                         <span class="service-icon"><img src="assets/img/icons/sr-6-2.svg" alt="icon"></span>
                         <div class="service-content">
-                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Wardrobe Consultation</a></h3>
-                            <p class="service-text">Curate, organize, and refresh your wardrobe for a closet that inspires confidence every day.</p>
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">New Wardrobe</a></h3>
+                            <p class="service-text">Build a style from scratch.</p>
                         </div>
                     </div>
                 </div>
@@ -220,8 +220,8 @@
                     <div class="service-style4">
                         <span class="service-icon"><img src="assets/img/icons/sr-6-3.svg" alt="icon"></span>
                         <div class="service-content">
-                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Event & Occasion Styling</a></h3>
-                            <p class="service-text">Look your best for weddings, parties, and special events with expert outfit planning and styling.</p>
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Occasion Styling</a></h3>
+                            <p class="service-text">Look great for any event.</p>
                         </div>
                     </div>
                 </div>
@@ -229,8 +229,35 @@
                     <div class="service-style4">
                         <span class="service-icon"><img src="assets/img/icons/sr-6-4.svg" alt="icon"></span>
                         <div class="service-content">
-                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Virtual Styling Sessions</a></h3>
-                            <p class="service-text">Enjoy professional styling advice and support from anywhere with convenient online consultations.</p>
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Corporate Styling</a></h3>
+                            <p class="service-text">Dress for your career goals.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="service-style4">
+                        <span class="service-icon"><img src="assets/img/icons/sr-6-1.svg" alt="icon"></span>
+                        <div class="service-content">
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Lifestyle Styling</a></h3>
+                            <p class="service-text">Everyday style, elevated.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="service-style4">
+                        <span class="service-icon"><img src="assets/img/icons/sr-6-2.svg" alt="icon"></span>
+                        <div class="service-content">
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Custom Design</a></h3>
+                            <p class="service-text">Bring your dream outfit to life.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="service-style4">
+                        <span class="service-icon"><img src="assets/img/icons/sr-6-3.svg" alt="icon"></span>
+                        <div class="service-content">
+                            <h3 class="service-title"><a class="text-inherit" href="service-details.html">Personal Shopping</a></h3>
+                            <p class="service-text">Shop smart, with guidance.</p>
                         </div>
                     </div>
                 </div>
@@ -249,106 +276,50 @@
                         <div class="media-style6">
                             <div class="media-icon"><i class="fal fa-calendar-alt"></i></div>
                             <div class="media-bod">
-                                <span class="media-label">Take support at any time</span>
-                                <p class="media-title">Send Message</p>
+                                <span class="media-label">Contact</span>
+                                <p class="media-title">Let's connect</p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="form-group col-md-6">
-                                <input type="text" placeholder="First Name">
+                                <input type="text" placeholder="Name">
                             </div>
                             <div class="form-group col-md-6">
-                                <input type="text" placeholder="Last Name">
-                            </div>
-                            <div class="form-group col-md-6">
-                                <input type="email" placeholder="Email Address">
-                            </div>
-                            <div class="form-group col-md-6">
-                                <input type="number" placeholder="Phone Number">
+                                <input type="email" placeholder="Email">
                             </div>
                             <div class="form-group col-12">
-                                <select>
-                                    <option disabled hidden selected>Select Subject</option>
-                                    <option>Sports Massage</option>
-                                    <option>Stone Massage</option>
-                                    <option>Head Massage</option>
-                                    <option>Head Massage</option>
-                                    <option>Facial &amp; Massage</option>
-                                </select>
+                                <input type="text" placeholder="Subject">
                             </div>
                             <div class="form-group col-12">
-                                <textarea placeholder="Write your message"></textarea>
+                                <textarea placeholder="Message"></textarea>
                             </div>
                             <div class="form-btn col-12">
-                                <button class="vs-btn" type="submit">Make Appointment</button>
+                                <button class="vs-btn" type="submit">Send</button>
                             </div>
+                        </div>
+                        <div class="mt-3">
+                            <p>Email: sample@gmail.com<br>Phone: [your number]<br>Location: Virtual & in-person</p>
                         </div>
                     </form>
                 </div>
                 <div class="col-xl-6">
                     <div class="row">
-                        <div class="col-md-6 col-xl-12 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-md-12 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="banner-style2 mega-hover">
                                 <div class="banner-img"><img src="assets/img/570x331/570x331.jpg" alt="banner"></div>
                                 <div class="banner-content">
-                                    <span class="banner-label">Style Tip</span>
-                                    <h3 class="banner-title">How to Accessorize</h3>
-                                    <a href="service.html" class="vs-btn">See Portfolio</a>
+                                    <span class="banner-label">Quote</span>
+                                    <h3 class="banner-title">"True style is more you." — J</h3>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-xl-12 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="col-md-12 wow fadeInUp" data-wow-delay="0.4s">
                             <div class="banner-style2 layout2 mega-hover">
                                 <div class="banner-img"><img src="assets/img/570x331/570x331-1.jpg" alt="banner"></div>
                                 <div class="banner-content">
-                                    <span class="banner-label">Featured Look</span>
-                                    <h3 class="banner-title">Seasonal Wardrobe Refresh</h3>
-                                    <a href="service.html" class="vs-btn">Get Styled</a>
+                                    <span class="banner-label">Meet Jennifer</span>
+                                    <h3 class="banner-title">I'm Jennifer, your stylist. I help you feel confident and seen through style that fits you.</h3>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!-- Divider -->
-    <div class="divider-style1  ">
-        <div class="divider-icon"><img src="assets/img/icons/divider-1-1.svg" alt="icon"></div>
-    </div><!--==============================
-    About Area
-    ==============================-->
-    <section class=" space">
-        <div class="container">
-            <div class="row gx-50 flex-row-reverse">
-                <div class="col-lg-6 mb-40 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img-box6">
-                        <div class="img-1"><img src="assets/img/570x760/570x760.jpg" alt="thumb"></div>
-                        <div class="img-2 ani-moving-x"><img src="assets/img/shape/leaf-1-9.png" alt="leaf"></div>
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-center wow fadeInUp" data-wow-delay="0.3s">
-                    <span class="sec-subtitle5">Styling <span class="inner-text">Philosophy</span></span>
-                    <h2 class="sec-title4">Empowering <span class="inner-text">Confidence</span></h2>
-                    <p class="sec-text2">At Style with J, every client is unique. My mission is to help you express your individuality and feel confident in your own skin through personalized style solutions.</p>
-                    <div class="media-style4">
-                        <div class="media-img"><img src="assets/img/about/ab-5-2.jpg" alt="organic"></div>
-                        <div class="media-body">
-                            <p class="media-text">"Working with J transformed my wardrobe and my confidence! I finally feel like myself in every outfit." – Client Testimonial</p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-6 col-sm-auto">
-                            <div class="media-style5">
-                                <span class="media-icon"><i class="fal fa-users"></i></span>
-                                <span class="media-number">80</span>
-                                <p class="media-text">Happy Clients</p>
-                            </div>
-                        </div>
-                        <div class="col-6 col-sm-auto">
-                            <div class="media-style5 bg-theme">
-                                <span class="media-icon"><i class="fal fa-globe-americas"></i></span>
-                                <span class="media-number">10</span>
-                                <p class="media-text">Years Experience</p>
                             </div>
                         </div>
                     </div>
@@ -356,258 +327,80 @@
             </div>
         </div>
     </section>
+    <!-- Divider -->
+    <div class="divider-style1  ">
+        <div class="divider-icon"><img src="assets/img/icons/divider-1-1.svg" alt="icon"></div>
+    </div>
     <!--==============================
-    Brand Partners
-    ==============================-->
-    <!-- <div class="space-extra-top mb-30">
-        <div class="container">
-            <div class="row vs-carousel text-center" data-slide-show="6" data-lg-slide-show="4" data-md-slide-show="3" data-sm-slide-show="2" data-xs-slide-show="2">
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-1.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-2.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-3.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-4.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-5.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-6.png" alt="brand">
-                </div>
-                <div class="col-auto">
-                    <img src="assets/img/brand/b-1-3.png" alt="brand">
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-    Price Plan Area
-    ==============================-->
-    <section class=" space-top" data-bg-src="assets/img/hero/IMG_3487.jpg">
-        <div class="container">
-            <div class="row justify-content-center justify-content-lg-end">
-                <div class="col-auto">
-                    <div class="title-area text-center text-lg-start wow fadeInUp" data-wow-delay="0.2s">
-                        <span class="sec-subtitle5">Your <span class="inner-text">Exclusive Offers</span> Await</span>
-                        <h2 class="sec-title4">Styling <span class="inner-text">Price Plans</span></h2>
-                    </div>
-                    <div class="price-inner3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="package-style2">
-                            <div class="package-img">
-                                <a href="price.html"><img src="assets/img/price/p-h-3-1.png" alt="Package"></a>
-                            </div>
-                            <div class="package-body">
-                                <h3 class="package-title"><a class="text-inherit" href="price.html">Personal Styling Session</a></h3>
-                                <p class="package-text">60 min <span class="package-label">₹2,500</span> / 90 min <span class="package-label">₹3,500</span></p>
-                            </div>
-                        </div>
-                        <div class="package-style2">
-                            <div class="package-img">
-                                <a href="price.html"><img src="assets/img/price/p-h-3-2.png" alt="Package"></a>
-                            </div>
-                            <div class="package-body">
-                                <h3 class="package-title"><a class="text-inherit" href="price.html">Wardrobe Makeover</a></h3>
-                                <p class="package-text">Half Day <span class="package-label">₹6,000</span> / Full Day <span class="package-label">₹10,000</span></p>
-                            </div>
-                        </div>
-                        <div class="package-style2">
-                            <div class="package-img">
-                                <a href="price.html"><img src="assets/img/price/p-h-3-3.png" alt="Package"></a>
-                            </div>
-                            <div class="package-body">
-                                <h3 class="package-title"><a class="text-inherit" href="price.html">Event Styling</a></h3>
-                                <p class="package-text">Per Event <span class="package-label">₹5,000</span></p>
-                            </div>
-                        </div>
-                        <div class="package-style2">
-                            <div class="package-img">
-                                <a href="price.html"><img src="assets/img/price/p-h-3-4.png" alt="Package"></a>
-                            </div>
-                            <div class="package-body">
-                                <h3 class="package-title"><a class="text-inherit" href="price.html">Virtual Consultation</a></h3>
-                                <p class="package-text">45 min <span class="package-label">₹1,200</span></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!--==============================
-    Testimonial Area
-    ==============================-->
-    <section class="arrow-wrap space-top space-extra-bottom">
-        <div class="container">
-            <div class="testi-icon1"><img src="assets/img/icons/quote-icon-1-1.svg" alt="quote"></div>
-            <div class="row justify-content-center">
-                <div class="col-xl-10">
-                    <!-- Main Content Slider -->
-                    <div class="testi-slide1" id="testis_4_1">
-                        <div>
-                            <h3 class="testi-title">J completely transformed my look and confidence. I feel like the best version of myself!</h3>
-                            <p class="testi-text">From our first session, J understood my style needs and helped me build a wardrobe that truly reflects who I am.</p>
-                        </div>
-                        <div>
-                            <h3 class="testi-title">The event styling was flawless—everyone complimented my outfit!</h3>
-                            <p class="testi-text">J's attention to detail and creative vision made me stand out at my best friend's wedding. Highly recommended!</p>
-                        </div>
-                        <div>
-                            <h3 class="testi-title">Virtual consultations are a game changer.</h3>
-                            <p class="testi-text">Even from afar, J provided expert advice and practical tips that made a real difference in my daily style.</p>
-                        </div>
-                        <div>
-                            <h3 class="testi-title">Wardrobe makeover = confidence boost!</h3>
-                            <p class="testi-text">I never realized how much my clothes affected my mood. Now, getting dressed is fun and empowering.</p>
-                        </div>
-                    </div>
-                    <div class="testi-divider1"></div> <!-- divider -->
-                    <!-- Avater Slider -->
-                    <div class="testi-slide2" id="testis_4_2">
-                        <div>
-                            <div class="testi-avater"><img src="assets/img/testi/testi-auth-3-1.png" alt="author"></div>
-                        </div>
-                        <div>
-                            <div class="testi-avater"><img src="assets/img/testi/testi-auth-3-2.png" alt="author"></div>
-                        </div>
-                        <div>
-                            <div class="testi-avater"><img src="assets/img/testi/testi-auth-3-3.png" alt="author"></div>
-                        </div>
-                        <div>
-                            <div class="testi-avater"><img src="assets/img/testi/testi-auth-3-4.png" alt="author"></div>
-                        </div>
-                    </div>
-                    <!-- Author Name Slider -->
-                    <div class="testi-slide3" id="testis_4_3">
-                        <div>
-                            <h4 class="testi-name">Aditi Sharma</h4>
-                            <span class="testi-degi">Marketing Professional</span>
-                        </div>
-                        <div>
-                            <h4 class="testi-name">Rahul Mehra</h4>
-                            <span class="testi-degi">Entrepreneur</span>
-                        </div>
-                        <div>
-                            <h4 class="testi-name">Priya Nair</h4>
-                            <span class="testi-degi">Fashion Blogger</span>
-                        </div>
-                        <div>
-                            <h4 class="testi-name">Sneha Patel</h4>
-                            <span class="testi-degi">Consultant</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!--==============================
     Blog Area
     ==============================-->
-    <section class="bg-vs-secondary space-top space-extra-bottom">
-        <div class="container">
-            <div class="row justify-content-center text-center">
-                <div class="col-md-9 col-lg-7 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="title-area text-center">
-                        <h2 class="sec-title4">Latest from the Style Blog</h2>
-                        <p class="sec-text">Stay inspired with expert tips, trend updates, and real client stories from Style with J.</p>
-                    </div>
+<section class="bg-vs-secondary space-top space-extra-bottom">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-md-9 col-lg-7 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="title-area text-center">
+                    <h2 class="sec-title4">Style Blog</h2>
+                    <p class="sec-text">Quick tips and inspiration.</p>
                 </div>
-            </div>
-            <div class="row vs-carousel arrow-margin wow fadeInUp" data-wow-delay="0.3s" data-slide-show="3" data-ml-slide-show="2" data-lg-slide-show="2" data-md-slide-show="2" data-arrows="true">
-
-                <div class="col-xl-4">
-                    <div class="vs-blog blog-style4">
-                        <div class="blog-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/blog-4-1.jpg" alt="Blog Thumbnail" class="w-100"></a>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-alt"></i>15 June, 2024</a>
-                                <a href="blog.html"><i class="fal fa-user-alt"></i>Jaya (Style with J)</a>
-                            </div>
-                            <h3 class="blog-title h5"><a href="blog-details.html">5 Wardrobe Essentials Every Woman Needs</a></h3>
-                            <p class="blog-text">Discover the timeless pieces that form the foundation of a versatile and stylish wardrobe for any season.</p>
-                            <a href="blog-details.html" class="blog-btn"><i class="far fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-4">
-                    <div class="vs-blog blog-style4">
-                        <div class="blog-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/blog-4-2.jpg" alt="Blog Thumbnail" class="w-100"></a>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-alt"></i>2 June, 2024</a>
-                                <a href="blog.html"><i class="fal fa-user-alt"></i>Jaya (Style with J)</a>
-                            </div>
-                            <h3 class="blog-title h5"><a href="blog-details.html">How to Style for the Monsoon Season</a></h3>
-                            <p class="blog-text">Stay chic and comfortable during the rains with these practical style tips and outfit ideas for monsoon weather.</p>
-                            <a href="blog-details.html" class="blog-btn"><i class="far fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-4">
-                    <div class="vs-blog blog-style4">
-                        <div class="blog-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/blog-4-3.jpg" alt="Blog Thumbnail" class="w-100"></a>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-alt"></i>20 May, 2024</a>
-                                <a href="blog.html"><i class="fal fa-user-alt"></i>Jaya (Style with J)</a>
-                            </div>
-                            <h3 class="blog-title h5"><a href="blog-details.html">From Ordinary to Outstanding</a></h3>
-                            <p class="blog-text">Read how a personalized styling session helped a client discover her confidence and signature look.</p>
-                            <a href="blog-details.html" class="blog-btn"><i class="far fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-4">
-                    <div class="vs-blog blog-style4">
-                        <div class="blog-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/blog-4-4.jpg" alt="Blog Thumbnail" class="w-100"></a>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-alt"></i>5 May, 2024</a>
-                                <a href="blog.html"><i class="fal fa-user-alt"></i>Jaya (Style with J)</a>
-                            </div>
-                            <h3 class="blog-title h5"><a href="blog-details.html">Top 3 Trends for Summer 2024</a></h3>
-                            <p class="blog-text">Explore the hottest trends this summer and learn how to make them work for your personal style.</p>
-                            <a href="blog-details.html" class="blog-btn"><i class="far fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
-    </section><!--==============================
+        <div class="row vs-carousel arrow-margin wow fadeInUp" data-wow-delay="0.3s" data-slide-show="3" data-ml-slide-show="2" data-lg-slide-show="2" data-md-slide-show="2" data-arrows="true">
+            <div class="col-xl-4">
+                <div class="vs-blog blog-style4">
+                    <div class="blog-img">
+                        <a href="blog-details.html"><img src="assets/img/blog/blog-4-1.jpg" alt="Blog Thumbnail" class="w-100"></a>
+                    </div>
+                    <div class="blog-content">
+                        <h3 class="blog-title h5"><a href="blog-details.html">5 Signs It’s Time for a Wardrobe Refresh</a></h3>
+                        <p class="blog-text">Subtle ways your clothes might be holding you back.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="vs-blog blog-style4">
+                    <div class="blog-img">
+                        <a href="blog-details.html"><img src="assets/img/blog/blog-4-2.jpg" alt="Blog Thumbnail" class="w-100"></a>
+                    </div>
+                    <div class="blog-content">
+                        <h3 class="blog-title h5"><a href="blog-details.html">What Your Clothes Say Before You Do</a></h3>
+                        <p class="blog-text">Exploring style as a tool for personal branding.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="vs-blog blog-style4">
+                    <div class="blog-img">
+                        <a href="blog-details.html"><img src="assets/img/blog/blog-4-3.jpg" alt="Blog Thumbnail" class="w-100"></a>
+                    </div>
+                    <div class="blog-content">
+                        <h3 class="blog-title h5"><a href="blog-details.html">Dressing With Intention</a></h3>
+                        <p class="blog-text">A stylist’s guide to building capsule wardrobes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <!--==============================
     Call To Action
     ==============================-->
     <section class="text-center space" data-bg-src="assets/img/bg/cta-bg-1-1.jpg">
         <div class="d-inline-flex mb-4 pb-1">
             <div class="circle-btn style2">
-                <a href="about.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
+                <a href="appointment.html" class="btn-icon"><i class="far fa-arrow-right"></i></a>
                 <div class="btn-text">
                     <svg viewBox="0 0 150 150">
                         <text>
-                            <textPath href="#textPath">how to make your makeup last all day</textPath>
+                            <textPath href="#textPath">Book a free call or send an enquiry to start your style journey.</textPath>
                         </text>
                     </svg>
                 </div>
             </div>
         </div>
-        <h2 class="sec-title text-white text-uppercase mb-4 pb-2">Get a Free Quote</h2>
+        <h2 class="sec-title text-white text-uppercase mb-4 pb-2">Bookings</h2>
         <div class="d-inline-flex flex-wrap justify-content-center gap-3 align-items-center">
-            <a href="appointment.html" class="vs-btn style7">appointment</a>
-            <a href="tel:+4412589634" class="vs-btn style6"><i class="fal fa-headset"></i>make a call</a>
+            <a href="appointment.html" class="vs-btn style7">Discovery Call</a>
+            <a href="appointment.html" class="vs-btn style6"><i class="fal fa-headset"></i>Enquire</a>
         </div>
     </section>
   
