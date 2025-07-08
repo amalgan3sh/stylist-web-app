@@ -17,4 +17,14 @@ $routes->get('/gallery-details', 'Home::galleryDetails');
 $routes->get('/team', 'Home::team');
 $routes->get('/team-details', 'Home::teamDetails');
 $routes->get('/contact', 'Home::contact');
+$routes->get('/admin', 'AdminLogin::index');
+$routes->post('/admin/login', 'AdminLogin::login');
+$routes->get('/admin/dashboard', 'AdminDashboard::index');
+$routes->post('/admin/logout', 'AdminLogin::logout');
+$routes->get('/admin/blog', 'AdminBlog::index');
+$routes->get('/admin/services', 'AdminServices::index');
+$routes->get('/admin/portfolio', 'AdminPortfolio::index');
+$routes->get('/admin/enquiries', 'AdminEnquiries::index');
+$routes->get('/admin/team', 'AdminTeam::index');
+$routes->get('/admin/settings', 'AdminSettings::index');
 
